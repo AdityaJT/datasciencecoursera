@@ -1,6 +1,6 @@
 #Getting and Cleaning Data Course Project
 
-The script 'run_analysis.R' in this repository downloads the project data if it is not present in the working directory and performs the 5 steps described in the course project's instruction page:
+The script 'run_analysis.R' in this repository performs the 5 steps described in the course project's instruction page.
 
 1. If the data file is not present in the working directory the project data is downloaded.
 2. The contents of the zipped file are extracted unto the working directory.
